@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Duong",
+    "birthday": "13",
+    "address": "ha noi"
+  },
+  {
+    "name": "trong",
+    "birthday": "2121",
+    "address": "haiduong"
+  },
+  {
+    "name": "Duong",
+    "birthday": "13",
+    "address": "Ha Noi"
+  },
+  {
+    "name": "trinh",
+    "birthday": "1",
+    "address": "nam dinh"
+  },
+  {
+    "name": "viet",
+    "birthday": "2",
+    "address": "long bien"
+  },
+  {
+    "name": "viet",
+    "birthday": "2",
+    "address": "long bien"
+  }
+]
